@@ -30,12 +30,12 @@ Includes features like auto-lock after inactivity and master password authentica
 
 # Tech Stack
 Backend: Python            
-Security: Cryptography, bcrypt
-Libraries: zxcvbn, requests
-Frontend: Tkinter
-Database: MySQL / Encrypted storage
+Security: Cryptography, bcrypt   
+Libraries: zxcvbn, requests    
+Frontend: Tkinter    
+Database: MySQL / Encrypted storage  
 
 
 # Setup & Run
-pip install -r requirements.txt
+pip install -r requirements.txt    
 python main.py
