@@ -29,7 +29,7 @@ Includes features like auto-lock after inactivity and master password authentica
 
 
 # Tech Stack
-Backend: Python
+Backend: Python            
 Security: Cryptography, bcrypt
 Libraries: zxcvbn, requests
 Frontend: Tkinter
